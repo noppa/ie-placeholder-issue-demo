@@ -14,6 +14,8 @@ This repository contains:
 In IE and Edge, the input field in this demo page will display one "box" character as a placeholder.  
 In Chrome and Firefox, the input field in this demo page is empty.
 
+![Screenshot](issue-demo-in-edge.png)
+
 
 ## Counterexample:
 To verify that the character in question is the Space character and there's not just some weird
