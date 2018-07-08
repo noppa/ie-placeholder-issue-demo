@@ -1,0 +1,23 @@
+{
+  "name": "ie-placeholder-issue-demo",
+  "version": "1.0.0",
+  "description": "Reproducible example for an issue with placeholder-attribute in IE &amp; Edge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noppa/ie-placeholder-issue-demo.git"
+  },
+  "author": "noppa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noppa/ie-placeholder-issue-demo/issues"
+  },
+  "homepage": "https://github.com/noppa/ie-placeholder-issue-demo#readme",
+  "devDependencies": {
+    "svg2ttf": "^4.1.0",
+    "svgicons2svgfont": "^9.0.3"
+  }
+}
