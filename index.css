@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'testfont';
+  src: url('dist/testfont.ttf') format('truetype');
+}
+
+input {
+  font-family: testfont;
+  text-align: center;
+}
